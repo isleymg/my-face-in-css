@@ -14,7 +14,7 @@ body {
 }
 
 .hair div {
-  background-color: #3B3024;
+  background-color: #2C222B;
   position: absolute;
 }
 
@@ -141,24 +141,24 @@ body {
 
 .features .teeth {
   background-color: white;
-  width: 72px;
+  width: 73px;
   height: 13px;
-  left: 124px;
+  left: 123px;
   top: 286px;
   border-radius: 3px;
 }
 
 .features .mouth {
-  background-color: #FF715A;
+  background-color: rgb(255, 131, 111);
   width: 73px;
   height: 40px;
   left: 123px;
   top: 286px;
-  border-radius: 0 0 28px 46px;
+  border-radius: 0 0 51px 46px;
 }
 
 .features .nose {
-  background-color: #FFB53E;
+  background-color: #E6CEA8;
   width: 32px;
   height: 12px;
   left: 149px;
